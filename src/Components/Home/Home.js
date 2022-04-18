@@ -1,5 +1,4 @@
 import React from 'react';
-import homeBg from '../Assets/home-bg.jpg';
 import homeLogo from '../Assets/home-main.svg'
 import {Container, Row, Col} from 'react-bootstrap';
 import './Home.css';

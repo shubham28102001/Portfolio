@@ -1,5 +1,5 @@
 import React from 'react';
-import {Row, Col, Container} from 'react-bootstrap';
+import {Row, Container} from 'react-bootstrap';
 import background from '../Assets/home-bg.jpg';
 var spcolor = '#ff9e00';
 
