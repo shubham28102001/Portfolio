@@ -1,3 +1,3 @@
 ## You can access the portfolio at
 
-[Portfolio](https://shubham28102001.github.io/Portfolio/)
+[Portfolio](https://shubhampatel28.netlify.app/)
