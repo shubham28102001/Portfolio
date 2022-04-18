@@ -1,0 +1,16 @@
+.img-class >img {
+    padding-top: 100px;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+
+.about-bio{
+    padding-top: 100px;
+}
+
+.about-bio > p,li{
+    font-weight: 600;
+    font-size: 20px;
+}

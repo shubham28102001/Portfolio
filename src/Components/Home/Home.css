@@ -1,0 +1,39 @@
+.home-logo > img{
+    height: 500px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+.home-bio > h1{
+    text-align: center;
+    padding: 0 10px;
+}
+
+.home-bio > p{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.name-greeting {
+    text-align: left;
+    color: white;
+}
+
+.top-row {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.img-class {
+    display: block;
+    margin: 0 auto;
+}
+
+p,h1,h2, h3, li {
+    color: white;
+}
+
+.name-greeting *:not(.greeting) {
+    font-size: 25px;
+}
