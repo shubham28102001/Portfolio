@@ -10,7 +10,7 @@ import '../Resume/Resume.css';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
-const resumeLink = "https://raw.githubusercontent.com/shubham28102001/shubham28102001/main/Resources/ShubhamPatel_Resume-1.pdf";
+const resumeLink = "https://raw.githubusercontent.com/shubham28102001/shubham28102001/main/Resources/ShubhamPatel_Resume_latest.pdf";
 
 function Resume(props) {
     const [width, setWidth] = useState(1200);
